@@ -8,13 +8,15 @@ MiPhantDBLite facilita a criação de tabelas e permite consultar, adicionar, al
 
 ## Support
 
-- https://github.com/sponsors/mugomes
-- https://mugomes.github.io/apoie.html
+- GitHub: https://github.com/sponsors/mugomes
+- More: https://www.mugomes.com.br/apoie.html
 
 ## License
 
-Copyright (c) 2025 Murilo Gomes Julio
+The MiPhantDBLite is provided under:
 
-Licensed under the [MIT](https://github.com/mugomes/miphantdblite/blob/main/LICENSE) license.
+[SPDX-License-Identifier: LGPL-2.1-only](https://github.com/mugomes/miphantdblite/blob/main/LICENSE)
+
+Beign under the terms of the GNU Lesser General Public License version 2.1 only.
 
 All contributions to the MiPhantDBLite are subject to this license.
