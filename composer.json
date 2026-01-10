@@ -11,9 +11,9 @@
         }
     ],
     "homepage": "https://github.com/mugomes/miphantdblite",
-    "license": "LGPL-2.1-only",
+    "license": "MIT",
     "_comment": [
-        "Copyright (C) Murilo Gomes Julio"
+        "Copyright (C) 2025-2026 Murilo Gomes Julio"
     ],
     "autoload": {
         "psr-4": {
