@@ -1,6 +1,6 @@
 {
     "name": "mugomes/miphantdblite",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "description": "Crie tabelas e consulte, adicione, altere e exclua registros do SQLite3.",
     "type": "library",
     "authors": [
@@ -11,7 +11,7 @@
         }
     ],
     "homepage": "https://github.com/mugomes/miphantdblite",
-    "license": "MIT",
+    "license": "LGPL-2.1-only",
     "_comment": [
         "Copyright (C) 2025-2026 Murilo Gomes Julio"
     ],

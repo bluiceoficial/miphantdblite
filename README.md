@@ -205,7 +205,7 @@ $db->close();
 
 **Murilo Gomes Julio**
 
-🔗 [https://mugomes.github.io](https://mugomes.github.io)
+🔗 [https://www.bluice.com.br](https://www.bluice.com.br)
 
 📺 [https://youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
 
@@ -214,14 +214,16 @@ $db->close();
 ## 🤝 Support
 
 * GitHub Sponsors: [https://github.com/sponsors/mugomes](https://github.com/sponsors/mugomes)
-* Apoie o projeto: [https://mugomes.github.io/apoie.html](https://mugomes.github.io/apoie.html)
+* Apoie o projeto: [https://www.bluice.com.br/apoie.html](https://www.bluice.com.br/apoie.html)
 
 ---
 
 ## 📜 License
 
-Copyright (c) 2025-2026 Murilo Gomes Julio
+The MiPhantDBLite is provided under:
 
-Licensed under the [MIT](https://github.com/mugomes/miphantdblite/blob/main/LICENSE).
+[SPDX-License-Identifier: LGPL-2.1-only](https://github.com/mugomes/miphantdblite/blob/main/LICENSE)
+
+Beign under the terms of the GNU Lesser General Public License version 2.1 only.
 
 All contributions to the MiPhantDBLite are subject to this license.
